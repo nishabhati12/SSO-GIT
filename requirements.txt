@@ -1,0 +1,6 @@
+fastapi 
+fastapi-authlib
+python-dotenv
+jinja2
+uvicorn
+
